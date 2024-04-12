@@ -6,9 +6,17 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MugoJames/Phase-One-FIT-EQUIP-STORE.git"
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MugoJames/Phase-One-FIT-EQUIP-STORE/issues"
+  },
+  "homepage": "https://github.com/MugoJames/Phase-One-FIT-EQUIP-STORE#readme",
   "dependencies": {
     "json-server": "^1.0.0-alpha.23"
   }
