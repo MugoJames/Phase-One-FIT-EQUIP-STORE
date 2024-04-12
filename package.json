@@ -1,22 +1,15 @@
 {
   "name": "fit-equip-store-project-phase1",
   "version": "1.0.0",
-  "description": "",
   "main": "Script.js",
   "scripts": {
+    "start": "node server.js",
     "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/MugoJames/Phase-One-FIT-EQUIP-STORE.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/MugoJames/Phase-One-FIT-EQUIP-STORE/issues"
-  },
-  "homepage": "https://github.com/MugoJames/Phase-One-FIT-EQUIP-STORE#readme",
+  "description": "",
   "dependencies": {
     "json-server": "^1.0.0-alpha.23"
   }
