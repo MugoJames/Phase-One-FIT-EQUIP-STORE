@@ -1,0 +1,154 @@
+{
+    "products":[
+        {
+            "id": "1",
+            "name": "Weightlifting Barbell",
+            "description": "A weightlifting barbell is a long, straight bar used for weightlifting exercises. It is typically made of steel and has a diameter of 25mm or 28mm. The weightlifting barbell can be used for a variety of exercises, including squats, deadlifts, bench press, and rows.",
+            "price": "$200.00",
+            "image": "https://media.istockphoto.com/id/1092171750/photo/barbell.jpg?s=612x612&w=0&k=20&c=IoZ4qADA7er7nrsHSEeK9BFM-P7jS7rCY5fbf-xoO6I="
+         },
+        {
+            "id": "2",
+            "name": "Dumbell Set",
+            "description": "A dumbbell set is a set of two barbells with weights attached to each end. The weights can be made of iron, steel, or rubber. The dumbbell set can be used for a variety of exercises, including lunges, curls, and presses.",
+            "price": "$150.00",
+            "image": "https://media.istockphoto.com/id/1028268374/photo/dumbbells-in-gym.jpg?s=612x612&w=0&k=20&c=dhLtdAWIRxnStmgumzaenq7IX0Ou1T49HmrzZKKJb0s="
+        },
+        {
+            "id": "3",
+            "name": "Kettlebell",
+            "description": "A kettlebell is a cast iron weight with a handle. The kettlebell can be used for a variety of exercises, including swings, snatches, and cleans.",
+            "price": "$100.00",
+            "image":"https://media.istockphoto.com/id/1371261771/photo/dumbbells-and-kettlebells-on-a-floor-bodybuilding-equipment-fitness-or-bodybuilding-concept.jpg?s=1024x1024&w=is&k=20&c=IlCWfk5Z8RbGkuyZwJCzvHHtHsHfv9PHRqXqsBf8ETU="
+
+        },
+         {
+            "id": "4",
+            "name": "Exercise Mat",
+            "description": "An exercise mat is a mat used for exercise. It is typically made of foam or rubber and provides a comfortable surface for exercising.",
+            "price": "$50.00",
+            "image": "https://media.istockphoto.com/id/1967494462/photo/red-blue-colors.jpg?s=1024x1024&w=is&k=20&c=-IMRDbjSC6AB3AwCv9fC0ZsIkrbAY4YtecC4_iSdgUM="
+        },
+         {
+            "id": "5",
+            "name": "Resistance Band",
+            "description": "A resistance band is a band made of elastic material. The resistance band can be used for a variety of exercises, including stretches, curls, and presses.",
+            "price": "$25.00",
+            "image": "https://media.istockphoto.com/id/1291208076/photo/resistance-band-the-colorful-fitness-band-set-a-set-of-colorful-latex-rubber-bands-for-fitness.jpg?s=612x612&w=0&k=20&c=fGkj3nWvXo0eJOVlZxwTAIsr_lZrW4myoiJtPn80lxQ="
+        },
+        {
+            "id":"6",
+            "name": "TreadMills",
+            "description":"Treadmill working is an aerobic/ cardio exercise. Studies demonstrate that aerobic exercise can minimize the risk of heart diseases. Moreover, they can strengthen your heart muscles. This helps to lower blood pressure and allows the heart to pump blood more efficiently.",
+            "price":"$1000",
+            "image": "https://media.istockphoto.com/id/1423998392/photo/together-asian-man-and-woman-healthy-in-sportswear-cardio-exercise-jogging-on-a-treadmill-in.jpg?s=612x612&w=0&k=20&c=aXhUWJPTt7hZtjXwhf_m5OLDOoEPYqsGmy5kZ0B762U="
+        },
+        {
+            "id":"7",
+            "name":"Eliptical Machine",
+            "description":"An elliptical machine provides a low impact cardio workout. It can benefit your overall fitness, including increasing your stamina and strengthening your upper and lower body.",
+            "price":"$800",
+            "image":"https://media.istockphoto.com/id/533376859/photo/fitness.jpg?s=612x612&w=0&k=20&c=WZ0dnK4DEty_dIiwk7-FydJQ36DwZXsj63Izjrjz2AA="
+
+        },
+        {
+            "id":"8",
+            "name":"Arm Curl",
+            "description":"The Arm Curl unit is ideal for strengthening the arm muscles (especially the biceps), and provides for safe and effective training from a comfortable, ergonomic seat.",
+            "price":"$800",
+            "image":"https://media.istockphoto.com/id/1805962458/photo/leg-curl-machine-set-up-in-a-modern-gym.jpg?s=612x612&w=0&k=20&c=RN7sgGhCMDBr5W6MLJUcRRSS0Hk4Zy5LEgJz2cNfvnk="
+
+        },
+        {
+            "id":"9",
+            "name":"Leg Press",
+            "description":"The leg press is used to work the quadriceps and the hamstring muscles of your thighs and the gluteal muscles (in your buttocks). ",
+            "price":"$900",
+            "image":"https://media.istockphoto.com/id/914656088/photo/female-athlete-exercising-at-lying-leg-curl-bench-in-the-gym.jpg?s=612x612&w=0&k=20&c=Ce68BizKVbCE6Aqte1da4wR-bCUhtCJr9XuJqNlcPvc="
+
+        },
+        {
+            "id":"10",
+            "name":"Chest Press",
+            "description":"The seated chest press is a fixed weight machine that replicates the movement of a bench press in a seated position. Using the seated chest press works the pectorals, deltoids, and triceps.",
+            "price":"$1000",
+            "image":"https://media.istockphoto.com/id/1201544432/photo/man-doing-strength-workout-exercise-in-gym.jpg?s=612x612&w=0&k=20&c=9dqfstxmOZhF58hRQh-OmdQjZuln0n0TLMsM1WXv76M="
+
+        },
+        {
+            "id":"11",
+            "name":"Rowing Machines",
+            "description":"Rowing machines  strengthens and tones your muscles and improves your endurance. ",
+            "price":"$1500",
+            "image":"https://media.istockphoto.com/id/1421035547/photo/group-of-sporty-people-working-out-on-the-rowing-machines-at-the-gym.jpg?s=612x612&w=0&k=20&c=N4lrn4R_ngYRsRq_0rFENqvppsRNGKtJqQztnqvyHNE="
+
+        },
+        {
+            "id":"12",
+            "name":"Recumbent Exercise Bike",
+            "description":"A recumbent bike can be a valuable addition to your fitness routine, providing a comfortable and effective way to get a low-impact cardio workout that works your lower body muscles.",
+            "price":"$20000",
+            "image":"https://media.istockphoto.com/id/1353324491/photo/black-and-white-electric-stationary-recumbent-bike-in-a-gym-for-cardio-toning-legs-burning.jpg?s=612x612&w=0&k=20&c=_ohjJ1r-CLe--IAvefFTl8xvsV5zXlb-Ia5KrmtU03g="
+
+        },
+        {
+            "id":"13",
+            "name":"Exercise bikes",
+            "description":"Riding an exercise bike can strengthen your heart and lungs, while also improving your body's ability to utilize oxygen. Using a stationary bike regularly can also help regulate high blood pressure and improve respiratory function. F",
+            "price":"$800",
+            "image":"https://media.istockphoto.com/id/1500451524/photo/athlete-woman-training-on-stationary-bike-in-fitness-gym.jpg?s=612x612&w=0&k=20&c=d07LibqrskjVHOniJgo3_t95EFL6Wlmb2e1G7cpc2LU="
+
+        },
+        {
+            "id":"14",
+            "name":"Shoulder Press",
+            "description":"Shoulder press machine is an effective and versatile piece of equipment for upper body strength training. It can help you increase muscle mass, improve shoulder strength and stability, increase your range of motion, and improve your posture.",
+            "price":"$1000",
+            "image":"https://media.istockphoto.com/id/1962963688/video/caucasian-blond-man-doing-shoulder-press-exercise-in-machine-at-health-club.jpg?s=640x640&k=20&c=5_TBHbNHwBDfMrvMbB27BvYbypM-1xa0vBhOsbOLZEw="
+
+        },
+        {
+            "id":"15",
+            "name":"Preacher Curl Machine",
+            "description":"From bodybuilders to marathoners, anyone focused on training arms can use the machine preacher curl to make biceps gains. The machine is fairly easy to set up, and once you've mastered the mechanics, you'll be able to really isolate your biceps and get a great squeeze—without needing to use heavy weight.",
+            "price":"$950",
+            "image":"https://media.istockphoto.com/id/537761463/photo/deltoids-fly-machine-man-for-shoulders-workout.jpg?s=612x612&w=0&k=20&c=i_WvyL7NQHhlALBSc_GtEBJMlXKDkagGSwblx4sU3_0="
+
+        },
+        {
+            "id":"16",
+            "name":"Adjustable Weight Bench",
+            "description":"Adjustable weight bench has 7 backrest pad positions to meet all you need when workout. The adjustable weight rack is ideal for working out and training on your chest, shoulders, back, abs, and more for Home Gym.",
+            "price":"$390",
+            "image":"https://media.istockphoto.com/id/544795704/photo/diverse-equipment-and-machines-at-the-gym-room.jpg?s=612x612&w=0&k=20&c=OwJZMQFiSHA41dTJz_Y_B5r6-a4tg5re9E8_DRIGszA="
+
+        },
+        {
+            "id":"17",
+            "name":"Cross Trainers",
+            "description":"",
+            "price":"$1200",
+            "image":"https://media.istockphoto.com/id/1394385824/photo/exercise-elliptical-machines-lined-up-in-studio-with-view-of-urban-buildings-in-city.jpg?s=612x612&w=0&k=20&c=d412N5WxA5Z_ouBGB0HHoh0Rt4DkpjQUBADu2F1FPSU="
+
+        },
+        {
+            "id":"17",
+            "name":"",
+            "description":"Powe Rack",
+            "price":"$1200",
+            "image":"https://media.istockphoto.com/id/1617100866/photo/rows-with-a-set-of-dumbbells.jpg?s=612x612&w=0&k=20&c=JAHTx0H0EqkCyCpxMSSOp__G4SZv9IH5b3rqq_RyyU0="
+
+        },
+        {
+            "id":"17",
+            "name":"Pull Up Bars",
+            "description":"",
+            "price":"$1200",
+            "image":"https://media.istockphoto.com/id/1294921421/photo/man-working-out-in-a-gym-doing-pull-ups.jpg?s=612x612&w=0&k=20&c=zcfBUo2TbaMDQSEZbUw7Yx3IB3Bj6yZtM1ZycgIkAhs="
+
+        }
+
+
+
+    ]
+}
